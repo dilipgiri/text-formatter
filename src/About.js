@@ -4,17 +4,14 @@ export default function About() {
     return (
         <div class="container my-3" >
 
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quia impedit ratione ad laudantium et similique fuga vel numquam assumenda totam natus officia accusamus repudiandae, quisquam minima! Velit sequi rem suscipit id minima recusandae!
+            <p>This is a site for formatting text. It has different formatting options. 
             </p>
 
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quia impedit ratione ad laudantium et similique fuga vel numquam assumenda totam natus officia accusamus repudiandae, quisquam minima! Velit sequi rem suscipit id minima recusandae!
+            <p>You can capitalize text, change it into lowercase and can also be used to count the number of words and characters.
             </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quia impedit ratione ad laudantium et similique fuga vel numquam assumenda totam natus officia accusamus repudiandae, quisquam minima! Velit sequi rem suscipit id minima recusandae!
+            <p>This has also the option of changing the theme color to blue, green, grey or default lightmode option.
             </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quia impedit ratione ad laudantium et similique fuga vel numquam assumenda totam natus officia accusamus repudiandae, quisquam minima! Velit sequi rem suscipit id minima recusandae!
-            </p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit quia impedit ratione ad laudantium et similique fuga vel numquam assumenda totam natus officia accusamus repudiandae, quisquam minima! Velit sequi rem suscipit id minima recusandae!
-            </p>
+            
            
         </div>
     )
